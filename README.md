@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Mobile Application development**
 
-- 🌱 I’m currently learning **React, Cloud, ML**
+- 🌱 I’m currently learning **Web development**
 
 - 📫 How to reach me **sourabhvamdevan2005@gmail.com**
 
