@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sourabh Vamdevan</h1>
-<h3 align="center">Aspiring software engineer| Specialist @Codeforces | 4 star @Codechef</h3>
+<h3 align="center">Aspiring software engineer| Specialist @Codeforces | 3 star @Codechef</h3>
 
 - 🔭 I’m currently working on **Mobile Application development**
 
