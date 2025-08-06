@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/sourabh-v-0b9801287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourabh-v-0b9801287" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/sourabh-vamdevan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sourabh-vamdevan" height="30" width="40" /></a>
 <a href="https://kaggle.com/sourabhvamdevan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sourabhvamdevan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@vamdevansourabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vamdevansourabh" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vamdevansourabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vamdevansourabh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sourabh8896" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sourabh8896" height="30" width="40" /></a>
 </p>
 
