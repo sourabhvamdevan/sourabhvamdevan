@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sourabh Vamdevan</h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=31EBF7&width=435&lines=I+am+a+Software+Developer;I+am+a+Full-Stack+Developer;I+am+AI%2FML+enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=31EBF7&width=435&lines=I+am+a+Software+Developer%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;I+am+a+Full-Stack+Developer+%F0%9F%A7%A0;I+am+AI%2FML+enthusiast+%F0%9F%92%BB;Building+technology+for+Impact+%F0%9F%99%82" alt="Typing SVG" /></a>
  
 </p>
 
