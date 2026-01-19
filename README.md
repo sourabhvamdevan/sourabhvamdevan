@@ -1,4 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sourabh Vamdevan</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7E6&center=true&multiline=true&width=500&lines=I+am+a+Software+Developer;Full+Stack+Developer;AI+%2F+ML+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
+
 <h3 align="center">A technology enthusiast who is passionate about machine learning, data structures, and competitive coding. I have an insatiable hunger for learning and constantly seek to deepen my understanding of the intricate workings of machine learning algorithms and their applications in real-world scenarios. I can comprehend complex data structures and algorithms and I enjoy tackling challenging problems and finding innovative solutions. I’m always eager to explore new avenues in my field of interest, and I’m always ready to push the boundaries of innovation in the world of technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabhvamdevan&label=Profile%20views&color=0e75b6&style=flat" alt="sourabhvamdevan" /> </p>
