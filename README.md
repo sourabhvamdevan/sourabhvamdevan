@@ -1,6 +1,6 @@
 # 💫 About Me:
  I’m currently working on my competitive coding skills<br>Ask me about DSA,C++<br>Fun fact I am always enthusiastic about exploring new fields.
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+Software+Engineer;I+am+a+AI%2FML+Engineer;I+am+a+Crossplatform+Wizard)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sourabh-v-0b9801287) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sourabhvamdevan) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/sourabh-vamdevan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sourabhvamdevan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sourabhvamdevan2005@gmail.com) 
