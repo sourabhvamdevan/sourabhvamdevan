@@ -13,9 +13,8 @@
 
 
 ## 🧠 Competitive Programming Profiles
-
 ### LeetCode
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/sourabh571/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/sourabh571?theme=radical&ext=contest)
 ### LeetCode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sourabh571?theme=dark&font=Baloo)
 
