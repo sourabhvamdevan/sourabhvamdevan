@@ -12,6 +12,13 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://sourabhvamdevan4.vercel.app/)
 
 
+## Current Streaks
+
+<p align="center">
+  <img src="https://leetcode-streak-stats.herokuapp.com/?user=sourabh571&theme=dark" alt="LeetCode Streak Stats"/>
+</p>
+
+
 ##  Competitive Programming Profiles
 ### LeetCode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sourabh571?theme=radical&ext=contest)
