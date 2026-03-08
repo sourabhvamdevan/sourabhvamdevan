@@ -22,6 +22,18 @@
 
 </p>
 
+### Achievements
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/GFG%20Problems-400%2B-00C853?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GFG%20Score-1500%2B-00C853?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Contest%20Rating-1498-FF5252?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
+</p>
+
 
 
 ##  Competitive Programming Profiles
