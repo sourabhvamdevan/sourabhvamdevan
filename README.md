@@ -15,7 +15,7 @@
 ## Current Streaks
 
 <p align="center">
-  <img src="https://leetcode-streak-stats.herokuapp.com/?user=sourabh571&theme=dark" alt="LeetCode Streak Stats"/>
+  <img src="https://leetcode-streak-stats.herokuapp.com/?user=sourabh8896 &theme=dark" alt="LeetCode Streak Stats"/>
 </p>
 
 
