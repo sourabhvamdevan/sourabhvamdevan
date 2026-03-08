@@ -12,6 +12,15 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://sourabhvamdevan4.vercel.app/)
 
 
+### Current Streaks
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/GFG%20Streak-365%20Days-00C853?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LeetCode%20Streak-365%2B%20Days-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
+</p>
 
 
 
