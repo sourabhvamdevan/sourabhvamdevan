@@ -119,6 +119,18 @@
 
 ---
 
+---
+
+### 🗓️ GitHub Contribution Activity (Last 365 Days)
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/sourabhvamdevan/sourabhvamdevan/activity-assets/activity-365d.svg"
+    width="98%"
+    alt="GitHub Contribution Activity - Last 365 Days"
+  />
+</p>
+
 ### 📫 Let's Connect
 
 <p>
